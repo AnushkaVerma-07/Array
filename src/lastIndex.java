@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class lastIndex {
         public static int lastIndex(int[] arr, int x){
